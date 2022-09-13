@@ -38,7 +38,7 @@ A payment application to demonstrate <strong>real-world</strong> usage of <a hre
 >
 > This application is purely for demonstration and educational purposes. Its setup and configuration resemble typical real-world applications, but it's not a full-fledged production system. Use this app to learn, experiment, tinker, and practice application testing with Cypress.
 >
-> Happy Testing!
+> Happy Testing!!!
 
 ---
 
@@ -61,6 +61,7 @@ The app is bundled with [example data](./data/database.json) (`data/database.jso
 >
 > You can login to the app with any of the [example app users](./data/database.json#L2). The default password for all users is `s3cret`.  
 > Example users can be seen by running `yarn list:dev:users`.
+
 
 ### Prerequisites
 
